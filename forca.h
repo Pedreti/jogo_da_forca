@@ -1,0 +1,10 @@
+void abertura();
+void tentativa();
+int jachutou(char letra);
+void escolhepalavra();
+int chuteserrados();
+int enforcou();
+int ganhou();
+void desenhaforca();
+void novapalavra();
+void letrasusadas();
